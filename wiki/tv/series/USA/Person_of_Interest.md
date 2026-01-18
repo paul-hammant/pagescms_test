@@ -9,11 +9,16 @@ Created by Jonathan Nolan, the series follows a former CIA agent and a billionai
 
 ## Main Cast
 
-- Jim Caviezel as John Reese
-- Michael Emerson as Harold Finch
-- Taraji P. Henson as Joss Carter
-- Kevin Chapman as Lionel Fusco
-- Amy Acker as Samantha "Root" Groves
+*   Jim Caviezel as John Reese
+    
+*   Michael Emerson as Harold Finch
+    
+*   Taraji P. Henson as Joss Carter
+    
+*   Kevin Chapman as Lionel Fusco
+    
+*   Amy Acker as the awesome Samantha "Root" Groves.
+    
 
 ## Seasons
 
