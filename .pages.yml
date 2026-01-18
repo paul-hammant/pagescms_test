@@ -1,0 +1,22 @@
+media: media
+
+content:
+  - name: wiki
+    label: Wiki Pages
+    type: collection
+    path: wiki
+    format: yaml-frontmatter
+    subfolders: true
+    filename: "{title}"
+    view:
+      layout: tree
+      fields: [title]
+      primary: title
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: body
+        label: Content
+        type: rich-text

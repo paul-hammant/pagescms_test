@@ -1,0 +1,14 @@
+title: AI in Fiction Wiki
+description: A wiki exploring artificial intelligence in fiction
+baseurl: "/pagescms_test"
+url: "https://paul-hammant.github.io"
+
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "wiki"
+      type: "pages"
+    values:
+      layout: "wiki"
