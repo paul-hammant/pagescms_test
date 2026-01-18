@@ -17,7 +17,7 @@ Created by Jonathan Nolan, the series follows a former CIA agent and a billionai
     
 *   Kevin Chapman as Lionel Fusco
     
-*   Amy Acker as the awesome Samantha "Root" Groves.
+*   Amy Acker as the awesome Samantha "Root" Groves
     
 
 ## Seasons
