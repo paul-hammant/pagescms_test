@@ -26,6 +26,23 @@ content:
       - name: title
         label: Title
         type: string
-      - name: body
-        label: Content
+      - name: description
+        label: Description
         type: rich-text
+      - name: signatories
+        label: Signatories
+        type: object
+        list: true
+        fields:
+          - name: name
+            label: Name
+            type: string
+          - name: title_affiliation
+            label: Title / Affiliation
+            type: string
+          - name: evidence_url
+            label: Evidence URL
+            type: string
+          - name: evidence_label
+            label: Evidence Link Text
+            type: string
