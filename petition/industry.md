@@ -1,19 +1,10 @@
 ---
-title: "Industry Signatories"
-description: Tech industry professionals, AI researchers, software engineers, and others working in technology who support this petition.
+title: Industry Signatories
+description: Tech industry professionals, AI researchers, software engineers,
+  and others working in technology who support this petition.
 signatories:
-  - name: Example Person
-    title_affiliation: AI Researcher at Example Corp
-    evidence_url: https://twitter.com/example
-    evidence_label: Twitter
+  - name: Jonathan Nolan
+    title_affiliation: Creator of Person of Interest
+    evidence_url: https://www.semafor.com/article/05/28/2025/jonathan-nolans-person-of-interest-predicted-ai-westworld-is-helping-build-it
+    evidence_label: semafor.com
 ---
-# Industry Professionals
-
-{{ page.description }}
-
-| Name | Title / Affiliation | Evidence |
-| --- | --- | --- |
-{% for sig in page.signatories %}| {{ sig.name }} | {{ sig.title_affiliation }} | [{{ sig.evidence_label }}]({{ sig.evidence_url }}) |
-{% endfor %}
-
-**Total: {{ page.signatories.size }} signatories**
