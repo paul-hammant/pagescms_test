@@ -16,4 +16,4 @@ defaults:
       path: "petition"
       type: "pages"
     values:
-      layout: "wiki"
+      layout: "petition"

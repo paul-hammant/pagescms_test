@@ -1,7 +1,6 @@
 ---
 title: Journalist Signatories
-description: Writers, critics, and journalists covering technology,
-  entertainment, or AI who support this petition.
+description: Writers, critics, and journalists covering technology, entertainment, or AI who support this petition.
 signatories:
   - name: Joshua Rothman
     title_affiliation: Journalist at NewYorker
