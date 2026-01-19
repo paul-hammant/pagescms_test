@@ -1,19 +1,10 @@
 ---
-title: "Journalist Signatories"
-description: Writers, critics, and journalists covering technology, entertainment, or AI who support this petition.
+title: Journalist Signatories
+description: Writers, critics, and journalists covering technology,
+  entertainment, or AI who support this petition.
 signatories:
-  - name: Example Journalist
-    title_affiliation: Tech Writer at Example Publication
-    evidence_url: https://example.com/article
-    evidence_label: Article
+  - name: Joshua Rothman
+    title_affiliation: Journalist at NewYorker
+    evidence_url: https://www.newyorker.com/culture/culture-desk/person-of-interest-the-tv-show-that-predicted-edward-snowden
+    evidence_label: NewYorker Article
 ---
-# Journalists
-
-{{ page.description }}
-
-| Name | Title / Affiliation | Evidence |
-| --- | --- | --- |
-{% for sig in page.signatories %}| {{ sig.name }} | {{ sig.title_affiliation }} | [{{ sig.evidence_label }}]({{ sig.evidence_url }}) |
-{% endfor %}
-
-**Total: {{ page.signatories.size }} signatories**
