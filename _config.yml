@@ -12,3 +12,8 @@ defaults:
       type: "pages"
     values:
       layout: "wiki"
+  - scope:
+      path: "petition"
+      type: "pages"
+    values:
+      layout: "wiki"

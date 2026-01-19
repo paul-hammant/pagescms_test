@@ -15,3 +15,17 @@ content:
       - name: body
         label: Content
         type: rich-text
+
+  - name: petition
+    label: Petition Signatures
+    type: collection
+    path: petition
+    view:
+      fields: [title]
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Content
+        type: rich-text
